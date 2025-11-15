@@ -59,7 +59,13 @@
 
 ![screen15](https://github.com/GoncharenkoAlla2437/LR6/blob/otchet/photos/Снимок%20экрана%202025-11-15%20023641.png?raw=true)
 
-![screen16](https://github.com/GoncharenkoAlla2437/LR6/blob/otchet/photos/Снимок%20экрана%202025-11-15%20031204.png)
+![screen16](https://github.com/GoncharenkoAlla2437/LR6/blob/otchet/photos/Снимок%20экрана%202025-11-15%20031204.png?raw=true)
+
+Затем я получила историю операций в форматированном виде и добавила два коммита в отчет: со скриншотами этого и с изменением отчета:
+
+![screen17](https://github.com/GoncharenkoAlla2437/LR6/blob/otchet/photos/скринлог1.png?raw=true)
+
+![screen18](https://github.com/GoncharenkoAlla2437/LR6/blob/otchet/photos/скринлог2.png?raw=true)
 
 В итоге был создан еще один коммит с готовой версией отчета, а в репозитории осталось две ветки: master и otchet.
 
